@@ -39,6 +39,4 @@ public class ProductController {
 	public void deleteProduct(@PathVariable String id) {                 // link id to path variable
 		productService.deleteProduct(id); 
 	}
-	
-
 }
