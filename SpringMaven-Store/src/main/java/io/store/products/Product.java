@@ -1,4 +1,4 @@
-package io.products;
+package io.store.products;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

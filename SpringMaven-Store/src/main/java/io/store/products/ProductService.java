@@ -1,4 +1,4 @@
-package io.products;
+package io.store.products;
 
 import java.util.Optional;
 import java.util.ArrayList;
